@@ -49,7 +49,7 @@ int power(float n1, float n2)
        result *= n1;
     }
    return result;
-  }
+  
 }
 
 int area(float n1, float n2)
