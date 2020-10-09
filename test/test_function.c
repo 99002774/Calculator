@@ -82,7 +82,7 @@ void test_rem(void) {
   CU_ASSERT(3 == rem(2, 2));
 }
 void test_power(void) {
-  CU_ASSERT(2 == power(2, ));
+  CU_ASSERT(2 == power(2, 1));
   
   /* Dummy fail*/
   CU_ASSERT(3 == power(2, 2));
