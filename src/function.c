@@ -1,4 +1,4 @@
-#include<header.h>
+#include<function.h>
 
 
 //function for addition of two numbers
