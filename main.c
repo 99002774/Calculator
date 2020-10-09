@@ -1,4 +1,4 @@
-#include<header.h>
+#include<function.h>
 int main()
 {
   float n1, n2, result;
